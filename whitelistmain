@@ -1,0 +1,575 @@
+
+--ALLAH IS MY EVERYTHING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--NO GOD EXCEPT FOR ALLAH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--We All Love Our Lord And Savior, The Almighty Allah.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- LA ILAHA ILA ALLAH MOHAMMAD RASULU ALLAH
+
+
+
+
+--Instances
+
+
+
+local ScreenGui = Instance.new("ScreenGui")
+local v0lmann21mai14m3lad0mmm = Instance.new("ImageLabel")
+local AAnB54KAnab4LAOndb3aa4mA = Instance.new("TextLabel")
+local AAnB54KAnab4LAOndb3aa4mA_2 = Instance.new("TextLabel")
+local AAnB54KAnab4LAOndb3aa4mA_3 = Instance.new("TextLabel")
+local AAnB54KAnab4LAOndb3aa4mA_4 = Instance.new("TextLabel")
+local polkaman = Instance.new("TextButton")
+local lcloz0e = Instance.new("ImageButton")
+local vvberfu09yinhcg = Instance.new("TextLabel")
+local AAnB54KAnab4LAOndb3aa4mA_5 = Instance.new("TextBox")
+local shadow = Instance.new("ImageLabel")
+local shadow_2 = Instance.new("ImageLabel")
+local polman12 = Instance.new("Part")
+
+--Settings
+
+function Terminate()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+	game.StarterGui.game.CoreGui.ScreenGui:Destroy()
+end
+
+function u0mn32mal51345()
+	while true do
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+		print("AAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game.Players.LocalPlayer:Kick("@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+		game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+
+	end
+end
+
+function u0mn32mal513452()
+	while true do
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		settings():GetService('NetworkSettings').IncomingReplicationLag = 9999999999
+		wait(0.1)
+	end
+end
+
+local ba = polkaman
+function FadeOut()
+	for i = 0, 1, 0.02 do
+		wait(0.01)
+		ba.TextTransparency = i
+	end
+end
+
+
+function FadeIn()
+	for i = 1, 0, -0.02 do
+		wait(0.01)                   --this was hell
+		ba.TextTransparency = i
+	end
+end
+
+function icl0ze()
+	local Sound = Instance.new("Sound")
+	Sound.SoundId = "rbxassetid://4612384434"
+	Sound.Looped = false
+	Sound:Play()
+	wait(0.25)
+	v0lmann21mai14m3lad0mmm.Visible = false
+	polman12.Archivable = false
+	Terminate()
+end
+
+
+                                                              --     *****_IMPORANT_******         --
+
+	-- AI Protected (dont even try to 'BORROW' kid or i will GetChildren() on ur ass ;) )
+
+MA5naslKAUI5Nbah4maAA4mal3 = {      --AI Controlled. ()
+	"dm0ANlap413nBAJl3nmNAI34man4o1AA411cam194", -- My Own UID.
+	"mm12nKAN4lornNABDmak3addnMAJ3l5920akMAl41", -- icantstopliving's UID.
+	"jHAN3Bkao4mafaa233mNALotnADw354mando0962s", -- Lopsidedninjago's UID.
+	"03manKAK3man6laoN4ma1333mNALi4mNAhh4jMAN4", -- hakanagetrekt [multiple_alts]: kapitan2968's UID.
+	"nJAB4Nnam4kKANb4h1yiNAuyubg3128nBAu4k1LAo", -- 89YUJJRDX3's UID.
+	"mn84kanB4IlamN498934nnab73mao923HFN73jIA9", -- aboud1092's UID.
+	"oiMA84nMALo4m1n8ANuf23iJFN87trna8KNAB895m", -- thrxbbingm3mber's UID.
+	"90NAb4mLKAOn4bYABg4bNAJo4loaiUANb4049MAn", -- KhaledRayyani's UID.
+	"LokMA00M234usjUAm5910asm14nKAzzimrm345H3a", -- f5m2007's UID.
+	"mN29oal31hggRyrjM69921Jh45819054M6la91350Ahj", -- Spare UID.                                    *********
+}
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+function main()
+		local Sound = Instance.new("Sound")
+		Sound.SoundId = "rbxassetid://4612384434"
+		Sound.Looped = false
+		Sound:Play()
+		polkaman.Active = false
+		FadeOut()
+		wait(1)
+		polkaman.Text = "Verifying"
+		polkaman.TextColor3 = Color3.fromRGB(255, 255, 255)
+		wait(0.5)
+		FadeIn()
+		wait(1)
+		FadeOut()
+		wait(1)
+		polkaman.Text = "Checking Whitelist"
+		FadeIn()
+		wait(1.5)
+
+		local whsi5m41n6man4 = {
+			"betekarijikhamer677", "icantstopliving",
+			"XxPxndyy24x",
+			"FemgirlWithCuteAnxus",
+			"asdasdasdasrf25", "FraudCaller",
+			"hakanagetrekt",
+			"kapitan2968",
+			"Lopsidedninjago",
+			"FraudCaller_Exiled",
+			"89YUJJRDX3"}
+		if table.find(whsi5m41n6man4, game.Players.LocalPlayer.Character.Name) then
+			print("Whitelisted.")
+			FadeOut()
+			v0lmann21mai14m3lad0mmm.Visible = false
+			polman12.Archivable = false
+			wait(0.3)
+			wait(0.1)
+			polman12.Archivable = false
+			polman12:Destroy()
+		else
+			u0mn32mal51345()
+			u0mn32mal513452()
+			while true do
+				print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+				print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+				print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+				print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+				print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+				print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+				print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+				game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
+				game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 100
+				game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 90
+				game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 69
+				game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 1
+			end
+		end
+	end
+
+ScreenGui.Parent = game.CoreGui
+
+polman12.Name = "Part"
+polman12.Parent = workspace
+polman12.Archivable = true
+polman12.Transparency = 1
+
+
+v0lmann21mai14m3lad0mmm.Name = "v0lmann21mai14m3lad0mmm"
+v0lmann21mai14m3lad0mmm.Parent = ScreenGui
+v0lmann21mai14m3lad0mmm.AnchorPoint = Vector2.new(0.5, 0.5)
+v0lmann21mai14m3lad0mmm.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+v0lmann21mai14m3lad0mmm.BackgroundTransparency = 1.000
+v0lmann21mai14m3lad0mmm.Position = UDim2.new(0.5, 0, 0.524691343, 0)
+v0lmann21mai14m3lad0mmm.Size = UDim2.new(0, 341, 0, 381)
+v0lmann21mai14m3lad0mmm.ZIndex = 5
+v0lmann21mai14m3lad0mmm.Image = "rbxassetid://3570695787"
+v0lmann21mai14m3lad0mmm.ImageColor3 = Color3.fromRGB(0, 0, 0)
+v0lmann21mai14m3lad0mmm.ScaleType = Enum.ScaleType.Slice
+v0lmann21mai14m3lad0mmm.SliceCenter = Rect.new(100, 100, 100, 100)
+v0lmann21mai14m3lad0mmm.SliceScale = 0.120
+
+AAnB54KAnab4LAOndb3aa4mA.Name = "AAnB54KAnab4LAOndb3aa4mA"
+AAnB54KAnab4LAOndb3aa4mA.Parent = v0lmann21mai14m3lad0mmm
+AAnB54KAnab4LAOndb3aa4mA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AAnB54KAnab4LAOndb3aa4mA.BackgroundTransparency = 1.000
+AAnB54KAnab4LAOndb3aa4mA.Position = UDim2.new(0.20527859, 0, 0.0439882688, 0)
+AAnB54KAnab4LAOndb3aa4mA.Size = UDim2.new(0, 200, 0, 50)
+AAnB54KAnab4LAOndb3aa4mA.ZIndex = 5
+AAnB54KAnab4LAOndb3aa4mA.Font = Enum.Font.SourceSans
+AAnB54KAnab4LAOndb3aa4mA.Text = "Halal Protection System."
+AAnB54KAnab4LAOndb3aa4mA.TextColor3 = Color3.fromRGB(255, 255, 255)
+AAnB54KAnab4LAOndb3aa4mA.TextSize = 27.000
+
+polman12:Destroy()
+
+AAnB54KAnab4LAOndb3aa4mA_2.Name = "AAnB54KAnab4LAOndb3aa4mA"
+AAnB54KAnab4LAOndb3aa4mA_2.Parent = v0lmann21mai14m3lad0mmm
+AAnB54KAnab4LAOndb3aa4mA_2.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+AAnB54KAnab4LAOndb3aa4mA_2.BackgroundTransparency = 1.000
+AAnB54KAnab4LAOndb3aa4mA_2.Position = UDim2.new(0.20527859, 0, 0.118116945, 0)
+AAnB54KAnab4LAOndb3aa4mA_2.Size = UDim2.new(0, 200, 0, 50)
+AAnB54KAnab4LAOndb3aa4mA_2.ZIndex = 5
+AAnB54KAnab4LAOndb3aa4mA_2.Font = Enum.Font.SourceSansItalic
+AAnB54KAnab4LAOndb3aa4mA_2.Text = "To Avoid Cracks/Leaks."
+AAnB54KAnab4LAOndb3aa4mA_2.TextColor3 = Color3.fromRGB(90, 90, 90)
+AAnB54KAnab4LAOndb3aa4mA_2.TextSize = 21.000
+
+AAnB54KAnab4LAOndb3aa4mA_3.Name = "AAnB54KAnab4LAOndb3aa4mA"
+AAnB54KAnab4LAOndb3aa4mA_3.Parent = v0lmann21mai14m3lad0mmm
+AAnB54KAnab4LAOndb3aa4mA_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AAnB54KAnab4LAOndb3aa4mA_3.BackgroundTransparency = 1.000
+AAnB54KAnab4LAOndb3aa4mA_3.Position = UDim2.new(0.304985344, 0, 0.270316184, 0)
+AAnB54KAnab4LAOndb3aa4mA_3.Size = UDim2.new(0, 133, 0, 115)
+AAnB54KAnab4LAOndb3aa4mA_3.ZIndex = 5
+AAnB54KAnab4LAOndb3aa4mA_3.Font = Enum.Font.SourceSans
+AAnB54KAnab4LAOndb3aa4mA_3.Text = "الله"
+AAnB54KAnab4LAOndb3aa4mA_3.TextColor3 = Color3.fromRGB(81, 81, 81)
+AAnB54KAnab4LAOndb3aa4mA_3.TextScaled = true
+AAnB54KAnab4LAOndb3aa4mA_3.TextSize = 100.000
+AAnB54KAnab4LAOndb3aa4mA_3.TextWrapped = true
+
+AAnB54KAnab4LAOndb3aa4mA_4.Name = "AAnB54KAnab4LAOndb3aa4mA"
+AAnB54KAnab4LAOndb3aa4mA_4.Parent = v0lmann21mai14m3lad0mmm
+AAnB54KAnab4LAOndb3aa4mA_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AAnB54KAnab4LAOndb3aa4mA_4.BackgroundTransparency = 1.000
+AAnB54KAnab4LAOndb3aa4mA_4.Position = UDim2.new(0.17595309, 0, 0.529442012, 0)
+AAnB54KAnab4LAOndb3aa4mA_4.Size = UDim2.new(0, 220, 0, 43)
+AAnB54KAnab4LAOndb3aa4mA_4.ZIndex = 5
+AAnB54KAnab4LAOndb3aa4mA_4.Font = Enum.Font.SourceSans
+AAnB54KAnab4LAOndb3aa4mA_4.Text = "الله الا اله لا"
+AAnB54KAnab4LAOndb3aa4mA_4.TextColor3 = Color3.fromRGB(122, 122, 122)
+AAnB54KAnab4LAOndb3aa4mA_4.TextScaled = true
+AAnB54KAnab4LAOndb3aa4mA_4.TextSize = 100.000
+AAnB54KAnab4LAOndb3aa4mA_4.TextWrapped = true
+
+polkaman.Name = "polkaman"
+polkaman.Parent = v0lmann21mai14m3lad0mmm
+polkaman.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+polkaman.BackgroundTransparency = 1.000
+polkaman.Position = UDim2.new(0.20527859, 0, 0.822043359, 0)
+polkaman.Size = UDim2.new(0, 200, 0, 50)
+polkaman.ZIndex = 5
+polkaman.Font = Enum.Font.SourceSansBold
+polkaman.Text = "I Believe That There Is No God Except For Allah."
+polkaman.TextColor3 = Color3.fromRGB(0, 170, 0)
+polkaman.TextScaled = true
+polkaman.TextSize = 14.000
+polkaman.TextWrapped = true
+
+lcloz0e.Name = "lcloz0e"
+lcloz0e.Parent = v0lmann21mai14m3lad0mmm
+lcloz0e.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+lcloz0e.BackgroundTransparency = 1.000
+lcloz0e.Position = UDim2.new(0.878299117, 0, 0.0274640583, 0)
+lcloz0e.Size = UDim2.new(0, 34, 0, 34)
+lcloz0e.ZIndex = 5
+lcloz0e.Image = "http://www.roblox.com/asset/?id=4463096168"
+lcloz0e.ImageColor3 = Color3.fromRGB(0, 170, 0)
+
+vvberfu09yinhcg.Name = "vvberfu09yinhcg"
+vvberfu09yinhcg.Parent = v0lmann21mai14m3lad0mmm
+vvberfu09yinhcg.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+vvberfu09yinhcg.BackgroundTransparency = 1.000
+vvberfu09yinhcg.Position = UDim2.new(0.20527859, 0, 0.777126133, 0)
+vvberfu09yinhcg.Size = UDim2.new(0, 200, 0, 50)
+vvberfu09yinhcg.Visible = false
+vvberfu09yinhcg.ZIndex = 5
+vvberfu09yinhcg.Font = Enum.Font.SourceSans
+vvberfu09yinhcg.Text = "Verifying"
+vvberfu09yinhcg.TextColor3 = Color3.fromRGB(255, 255, 255)
+vvberfu09yinhcg.TextSize = 27.000
+
+AAnB54KAnab4LAOndb3aa4mA_5.Name = "AAnB54KAnab4LAOndb3aa4mA"
+AAnB54KAnab4LAOndb3aa4mA_5.Parent = v0lmann21mai14m3lad0mmm
+AAnB54KAnab4LAOndb3aa4mA_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AAnB54KAnab4LAOndb3aa4mA_5.BackgroundTransparency = 1.000
+AAnB54KAnab4LAOndb3aa4mA_5.Position = UDim2.new(0.249266863, 0, 0.671599627, 0)
+AAnB54KAnab4LAOndb3aa4mA_5.Size = UDim2.new(0, 170, 0, 43)
+AAnB54KAnab4LAOndb3aa4mA_5.ZIndex = 5
+AAnB54KAnab4LAOndb3aa4mA_5.Font = Enum.Font.SourceSansBold
+AAnB54KAnab4LAOndb3aa4mA_5.Text = "Enter UID Here"
+AAnB54KAnab4LAOndb3aa4mA_5.TextColor3 = Color3.fromRGB(236, 236, 236)
+AAnB54KAnab4LAOndb3aa4mA_5.TextSize = 19.000
+
+shadow.Name = "shadow"
+shadow.Parent = v0lmann21mai14m3lad0mmm
+shadow.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+shadow.BackgroundTransparency = 1.000
+shadow.Position = UDim2.new(-0.875206709, 0, -0.64859432, 0)
+shadow.Size = UDim2.new(0, 936, 0, 875)
+shadow.Image = "http://www.roblox.com/asset/?id=11529706241"
+shadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+shadow.ImageTransparency = 0.400
+shadow.ScaleType = Enum.ScaleType.Tile
+shadow.SliceCenter = Rect.new(100, 100, 100, 100)
+shadow.SliceScale = 0.120
+
+shadow_2.Name = "shadow"
+shadow_2.Parent = shadow
+shadow_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+shadow_2.BackgroundTransparency = 1.000
+shadow_2.Position = UDim2.new(0.0168872867, 0, -0.0234514698, 0)
+shadow_2.Size = UDim2.new(0, 936, 0, 875)
+shadow_2.Image = "http://www.roblox.com/asset/?id=11529706241"
+shadow_2.ImageColor3 = Color3.fromRGB(0, 0, 0)
+shadow_2.ImageTransparency = 0.400
+shadow_2.ScaleType = Enum.ScaleType.Tile
+shadow_2.SliceCenter = Rect.new(100, 100, 100, 100)
+shadow_2.SliceScale = 0.120
+
+--Buttons
+
+lcloz0e.MouseButton1Down:Connect(function()
+	icl0ze()
+end)
+
+polkaman.MouseButton1Down:Connect(function()
+	if AAnB54KAnab4LAOndb3aa4mA_5.Text == MA5naslKAUI5Nbah4maAA4mal3 then
+		main()
+	else
+		game.StarterGui:SetCore("SendNotification", {
+			Title = "Error.";
+			Text = "Invalid UID.";
+		})
+	end
+end)
+
+--Scripts And Loops
+
+local function BXZQCAS_fake_script() -- pingcount.LocalScript 
+	while AAnB54KAnab4LAOndb3aa4mA_5.CursorPosition == -1 do     --1 = selected / -1 = not selected
+			AAnB54KAnab4LAOndb3aa4mA_5.Text = "Enter UID Here"
+		end
+	wait(0.1)
+end
+coroutine.wrap(BXZQCAS_fake_script)()
+
+while polman12.Archivable == true do
+	if v0lmann21mai14m3lad0mmm.Visible == false then
+		u0mn32mal51345()
+		u0mn32mal51345()
+		u0mn32mal51345()
+		u0mn32mal513452()
+		u0mn32mal513452()
+		u0mn32mal513452()
+	end
+	wait(0.1)
+end
