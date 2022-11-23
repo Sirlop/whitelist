@@ -1835,6 +1835,7 @@ Strollerfalse.MouseButton1Down:Connect(function()
 	while strollertrue.Visible == true do
 		game:GetService('Players').LocalPlayer.Character.Humanoid.Sit = false
 		game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+		wait(0.1)
 		if game:GetService('Players').LocalPlayer.Character.Humanoid.Sit == true then
 			game:GetService('Players').LocalPlayer.Character.Humanoid.Sit = false
 			game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.Anchored = true
@@ -1844,7 +1845,9 @@ Strollerfalse.MouseButton1Down:Connect(function()
 			game:GetService('Players').LocalPlayer.Character.Humanoid.Sit = false
 			game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.Anchored = false
 			game:GetService('Players').LocalPlayer.Character.Torso.Anchored = false
+			wait(0.1)
 		end
+		wait(0.1)
 	end
 end)
 
@@ -2293,22 +2296,23 @@ end
 coroutine.wrap(HH4_fake_script)()
 
 while true do                                   --Calculated By An AI (Artificial Intelligence).
-	if BlockCount.Text > 1000 then
+	if BlockCount.Text.Value > 1000 then
 		servpingcount.Text = "Around 0 - 500"
 		wait(0.1)
-		else
-	if BlockCount.Text > 5000 then
-		servpingcount.Text = "Around 900 - 6000"
+	else
+		if BlockCount.Text.Value > 5000 then
+			servpingcount.Text = "Around 900 - 6000"
 			wait(0.1)
-			else
-	if BlockCount.Text > 10000 then
-		servpingcount.Text = "Around 1450 - 9000"
+		else
+			if BlockCount.Text.Value > 10000 then
+				servpingcount.Text = "Around 1450 - 9000"
 				wait(0.1)
-				else
-	if BlockCount.Text > 30000 then
+			else
+				if BlockCount.Text.Value > 30000 then
 					servpingcount.Text = "Around 1900 - 10000+"
 				end
 			end
 		end
 	end
+	wait(0.1)
 end
